@@ -1,5 +1,5 @@
-## About the project
-This project records my leetcode problem process. It also summarizes the common data structure, algorithm, and gives a template.<br>
+## About
+This is ongoing project which records my leetcode problem process. It also summarizes the common data structure, algorithm, and gives a template.<br>
 Reference:[leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 ## Array
 #### Easy
