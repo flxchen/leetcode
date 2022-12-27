@@ -4,6 +4,7 @@ This is ongoing project which records my leetcode problem process. It also summa
 #### Easy
 1. [Two sum](https://leetcode.com/problems/two-sum/)
 ## String
+#### Easy
 1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 ## Linkedlist
 ## Stack
