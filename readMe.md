@@ -1,6 +1,5 @@
 ## About
 This is ongoing project which records my leetcode problem process. It also summarizes the common data structure, algorithm, and gives a template.<br>
-Reference:[leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 ## Array
 #### Easy
 1. [Two sum](https://leetcode.com/problems/two-sum/)
@@ -60,3 +59,7 @@ return -1;
 ## Graph
 ## Greedy/optimization
 ## DP
+
+## Reference
+1. [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+2. [neetcode](https://neetcode.io/practice)
