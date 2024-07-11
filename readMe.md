@@ -3,12 +3,14 @@ This is ongoing project which records my leetcode problem process. It also summa
 ## Array
 #### Easy
 1. [Two sum](https://leetcode.com/problems/two-sum/)
+2. [Minimum differences](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
 ## String
 #### Easy
 1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 ## Linkedlist
 ## Stack
 ## Queue
+## Priority queue
 ## Heap/priority queue
 ## Binary search tree
 ## Hashing
