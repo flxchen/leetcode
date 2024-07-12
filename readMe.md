@@ -55,8 +55,11 @@ return -1;
 1. [703 Binary search](https://leetcode.com/problems/binary-search/description)
 ## Two pointers/sliding window
 ## Matrix
-## Math
+## Math 
+1. [calculate power](https://leetcode.com/problems/powx-n/)
 ## Bit manipulation
+1.>> signed right shift(divide the number by power of 2) >>> unsigned right shift <br>
+2. bitwise and &  bitwise or | bitwise XOR ^ bitwise coomplement ~
 ## Backtrack
 ## Tree
 ## Graph
