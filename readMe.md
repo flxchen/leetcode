@@ -58,8 +58,12 @@ return -1;
 ## Math 
 1. [calculate power](https://leetcode.com/problems/powx-n/)
 ## Bit manipulation
-1.>> signed right shift(divide the number by power of 2) >>> unsigned right shift <br>
-2. bitwise and &  bitwise or | bitwise XOR ^ bitwise coomplement ~
+|>> signed right shift(divide the number by power of 2) e.g. (1000)_2>>2=(1110)_2 -2|<< signed left shift(preserve the sign)
+|--------------------------------------------------|----------------------------------------------------------------------|
+|>>> unsigned right shift |<<< unsigned left shift
+|bitwise and &  | bitwise or \| 
+|bitwise XOR ^ (result is 0 if both bits are the same)| bitwise coomplement ~
+|1's complement: invert all bits, add up to 1 e.g. (1000)<sub>2</sub>=8 (0111)<sub>2</sub>=-7 | 2's complement: invert all bits and add one, msb is signed e.g. (0110)<sub>2</sub>=6 (1001)<sub>2</sub>+1=(1010)<sub>2</sub>=-1x2<sup>3</sup>+1x2=-6
 ## Backtrack
 ## Tree
 ## Graph
