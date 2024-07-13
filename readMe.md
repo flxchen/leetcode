@@ -21,7 +21,7 @@ This is ongoing project which records my leetcode problem process. It also summa
 | 1. bubble sort | O(n<sup>2</sup>) | O(n) | O(1) | yes
 | 2. selection sort | O(n<sup>2</sup>) | O(n<sup>2</sup>) | O(1) | no
 | 3. insertion sort | O(n<sup>2</sup>) | O(n) | O(1) | yes
-| 4. merge sort | O(nlogn) | O(nlogn) | n | yes
+| 4. merge sort | O(nlogn) | O(nlogn) | O(n) | yes
 | 5. quick sort | O(n<sup>2</sup>) | O(nlogn) | O(logn) | no
 | 6. heap sort | O(nlogn) | O(nlogn)| O(1) | no
 | 7. shell sort | O(nlogn<sup>2</sup>) | O(n) | O(1) | no
