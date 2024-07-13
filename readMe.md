@@ -16,7 +16,7 @@ This is ongoing project which records my leetcode problem process. It also summa
 ## Hashing
 # 
 ## Sorting
-| name | worst case | best case | additional space | stable |
+| name | worst case | best case | additional space(in place) | stable(relative order) |
 | --- | ----------- | --- | --- | --- |
 | 1. bubble sort | O(n<sup>2</sup>) | O(n) | O(1) | yes
 | 2. selection sort | O(n<sup>2</sup>) | O(n<sup>2</sup>) | O(1) | no
