@@ -67,6 +67,50 @@ return -1;
 ## Backtrack
 ## Tree
 ## Graph
+# BFS(G,s) G:graph s:start node
+```py
+for each vertex u in G.V-{s}:#initialize
+   u.color = WHITE #not visited
+   u.d = inf #distance from s to u
+   u.pred = NIL #predecessor
+s.color = GRAY # visiting
+s.d = 0
+s.pred = NIL
+Q = Enqueue(Q,s);
+while Q not empty:
+   u = Dequeue(Q)
+   for each v in G.Adj[u]:
+      v.color = Gray
+      v.d = u.d + 1
+      v.pred = u
+      Enqueue(Q,v)
+   u.color = Black # finish visiting u
+```
+Time:O(V+E)
+Space:O(V)
+# DFS(G) G:graph
+```py
+for each vertex u in G.V: #initialize
+   u.color = White
+   u.pred = NIL
+time = 0
+for each vertex u in G.V:
+   if u.color = White:
+      DFS-VISIT(G,u)
+
+DFS-VISIT(G,u):
+   time = time + 1
+   u.d = time #start time when discovering u
+   u.color = Gray
+for each v in G.Adj[u]:
+   if v.color == White:
+      v.pred = u
+      DFS-VISIT(G,v)
+u.color = Black
+time = time + 1
+u.f = time #time after finish visiting u
+```
+time:O(V+E) space:O(V)
 ## Greedy/optimization
 ## DP
 
