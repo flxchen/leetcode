@@ -10,8 +10,8 @@ This is ongoing project which records my leetcode problem process. It also summa
 ## Linkedlist
 ## Stack
 ## Queue
-## Priority queue
 ## Heap/priority queue
+[K closest points](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 ## Binary search tree
 ## Hashing
 # 
