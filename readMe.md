@@ -113,7 +113,7 @@ u.f = time #time after finish visiting u
 time:O(V+E) space:O(V)
 ## Greedy/optimization
 ## DP
-
+[odd even jump](https://leetcode.com/problems/odd-even-jump/description/)
 ## Reference
 1. [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 2. [neetcode](https://neetcode.io/practice)
