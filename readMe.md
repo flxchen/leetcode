@@ -13,7 +13,7 @@ This is ongoing project which records my leetcode problem process. It also summa
 ## Heap/priority queue
 [K closest points](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 ## Binary search tree
-## Hashing
+## Hash table:Hashing
 # 
 ## Sorting
 | name | worst case | best case | additional space(in place) | stable(relative order) |
