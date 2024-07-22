@@ -54,6 +54,7 @@ return -1;
 #### Easy
 1. [703 Binary search](https://leetcode.com/problems/binary-search/description)
 ## Two pointers/sliding window
+[fruit into baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
 ## Matrix
 ## Math 
 1. [calculate power](https://leetcode.com/problems/powx-n/)
