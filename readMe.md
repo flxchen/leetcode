@@ -29,7 +29,7 @@ This is ongoing project which records my leetcode problem process. It also summa
 | 9. radix sort | O(n*k/d) (d:number of largest digit) | O(n*k/d) | O(n+2<sup>d</sup>) | yes
 | 10. Tim sort | O(nlogn) | O(nlogn) | n | yes
 ## Binary Search ##
-[min number of days to make bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
+[min number of days to make bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)<br>
 __Template__
 ```cpp
 int left = 0, right = int(nums.size()) - 1;
