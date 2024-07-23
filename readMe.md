@@ -29,8 +29,8 @@ This is ongoing project which records my leetcode problem process. It also summa
 | 9. radix sort | O(n*k/d) (d:number of largest digit) | O(n*k/d) | O(n+2<sup>d</sup>) | yes
 | 10. Tim sort | O(nlogn) | O(nlogn) | n | yes
 ## Binary Search ##
-1.[min number of days to make bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
-2.[703 Binary search](https://leetcode.com/problems/binary-search/description) <br>
+1. [min number of days to make bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
+2. [703 Binary search](https://leetcode.com/problems/binary-search/description) <br>
 __Template__
 ```cpp
 int left = 0, right = int(nums.size()) - 1;
@@ -114,8 +114,8 @@ u.f = time #time after finish visiting u
 time:O(V+E) space:O(V)
 ## Greedy/optimization
 ## DP
-1.[odd even jump](https://leetcode.com/problems/odd-even-jump/description/)
-2.[Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+1. [odd even jump](https://leetcode.com/problems/odd-even-jump/description/)
+2. [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 ## Reference
 1. [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 2. [neetcode](https://neetcode.io/practice)
