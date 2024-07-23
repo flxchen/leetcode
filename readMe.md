@@ -29,7 +29,8 @@ This is ongoing project which records my leetcode problem process. It also summa
 | 9. radix sort | O(n*k/d) (d:number of largest digit) | O(n*k/d) | O(n+2<sup>d</sup>) | yes
 | 10. Tim sort | O(nlogn) | O(nlogn) | n | yes
 ## Binary Search ##
-[min number of days to make bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)<br>
+[min number of days to make bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/) <br>
+[703 Binary search](https://leetcode.com/problems/binary-search/description) <br>
 __Template__
 ```cpp
 int left = 0, right = int(nums.size()) - 1;
@@ -52,8 +53,6 @@ while (left <= right) {
 // If we finish the search without finding target, return -1.
 return -1;
 ```
-#### Easy
-1. [703 Binary search](https://leetcode.com/problems/binary-search/description)
 ## Two pointers/sliding window
 [fruit into baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
 ## Matrix
