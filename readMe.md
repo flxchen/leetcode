@@ -68,6 +68,7 @@ return -1;
 ## Backtrack
 ## Tree
 ## Graph
+1.[number of islands](https://leetcode.com/problems/number-of-islands/description/)
 # BFS(G,s) G:graph s:start node
 ```py
 for each vertex u in G.V-{s}:#initialize
