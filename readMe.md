@@ -117,6 +117,7 @@ time:O(V+E) space:O(V)
 ## DP
 1. [odd even jump](https://leetcode.com/problems/odd-even-jump/description/)
 2. [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+3. [coin change](https://leetcode.com/problems/coin-change/description)
 ## Reference
 1. [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 2. [neetcode](https://neetcode.io/practice)
