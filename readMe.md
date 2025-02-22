@@ -1,5 +1,13 @@
 ## About
 This is ongoing project which records my leetcode problem process. It also summarizes the common data structure, algorithm, and gives a template.<br>
+## Auto load web page
+```javascript
+function autoLoadTrades() {
+    setInterval(() => {
+        window.scrollTo(0, document.body.scrollHeight);
+    }, 2); // Scroll every .002 seconds
+}
+```
 ## Array
 #### Easy
 1. [Two sum](https://leetcode.com/problems/two-sum/)
