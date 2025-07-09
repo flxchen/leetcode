@@ -22,6 +22,8 @@ function autoLoadTrades() {
 [K closest points](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 ## Binary search tree
 ## Hash table:Hashing
+## Backtracking
+[generate parenthesis](https://leetcode.com/problems/generate-parentheses/description/)
 # 
 ## Sorting
 | name | worst case | best case | additional space(in place) | stable(relative order) |
