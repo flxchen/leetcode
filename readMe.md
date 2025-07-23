@@ -8,6 +8,36 @@ function autoLoadTrades() {
     }, 2); // Scroll every .002 seconds
 }
 ```
+## Cpp iterator
+```cpp
+unordered_map<int, int> m;
+for(unordered_map<int, int>::iterator it=m.begin();it!=m.end();it++){
+    cout<<"("<<it->first<<","<<it->second<<")"<<",";
+}
+```
+## Cpp containers
+### Sequence container
+| name | description
+| --- | --- |
+| array | fixed size static array
+| vector | resizable dynamic array
+| deque | Dynamic array allows fast insertions and deletions at both ends.
+| list | Doubly Linked List
+| forward-list | Singly Linked List
+### Assoiciative container
+| name | description
+| --- | --- |
+| set | Collection of unique elements sorted on values
+| map | Collection of key-value pairs sorted on keys where no two pairs have same keys
+| multiset | Collection of elements sorted on values but allows copies of values
+| multimap | Collection of key-value pairs sorted on keys where multiple pairs can have same keys
+### Unordered Associative Containers
+| name | description
+| --- | --- |
+| unordered set | Collection of unique elements hashed by values
+| unordered map | Collection of key-value pairs that are hashed by keys where no two pairs have same keys
+| unordered multiset | Collection of elements hashed by values and allows multiple copies of values
+| unordered multimap | Collection of key-value pairs that are hashed by keys where multiple pairs can have same keys
 ## Array
 #### Easy
 1. [Two sum](https://leetcode.com/problems/two-sum/)
