@@ -8,6 +8,18 @@ function autoLoadTrades() {
     }, 2); // Scroll every .002 seconds
 }
 ```
+## find gcd
+```cpp
+function gcd(int a,int b){
+    int r = 0;
+    while( b != 0){
+        r = a % b;
+        a = b;
+        b = r;
+    }
+    return a;
+}
+```
 ## Cpp iterator
 ```cpp
 unordered_map<int, int> m;
